@@ -26,7 +26,6 @@ Stack Overflow 2017 is golden source data and used as baseline to perform variou
 2. **Technology plays big role into Industry and the way it is evolving, biggest challenges is to cope with new technology to have professional growth.** 
 
 - Which Development Framework,databases, languages are being used by professionals and what is in their to-do list for learning to get better opportunity?
-- What is Job & Career Satisfaction with respect to Technology?
 
 3. **Stack Overflow has collected responses inline with Job Assessment which helps companies to understand & introduce or improve policies to handle employee attrition.**
 
