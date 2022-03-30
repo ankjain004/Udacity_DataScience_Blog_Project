@@ -7,7 +7,7 @@ Project implementation is performed under the umbrella of Udacity Data Scientist
 
 # Source of DataSet
 https://insights.stackoverflow.com/survey
-Stack Overflow 2017
+- Stack Overflow 2017
 
 # Project LifeCycle
 
