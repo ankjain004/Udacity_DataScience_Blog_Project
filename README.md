@@ -32,6 +32,9 @@ How job assessment makes difference in Job/Career Satisfaction? What are key Job
 What parameters possibly can trigger high employee attrition?
 
 # Data Understanding
+
+Stack Overflow 2017 is source dataset. The rows are the different respondants to the survey, and the columns are the answer to the various survey questionnaires. It contains data that comes as numerical, categorical and text. It also has missing values and outliers as well.
+
 # Data Preparation
 # Modeling
 # Evaluation
