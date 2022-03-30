@@ -69,4 +69,7 @@ Feedback is provided by just 8% of whole dataset so increased % of feedack will 
 
 # Deployment
 
+Python code is developed to perform analysis and make some conclusion to inline with business questions.
+Reference file is attached. 
+
 # Medium Blog Post
