@@ -16,7 +16,7 @@ CRISP-DM (Cross Industry Standard Process for Data Mining)
 
 Stack Overflow 2017 is golden source data and used as baseline to perform various analysis. Though data can be analyzed at various angles and prospects but here we focused on following questions
 
-1) Diversity & Inclusion is an big initiative in many organizations which helps to improve gender ratio and empower Women.
+**Diversity & Inclusion is an big initiative in many organizations which helps to improve gender ratio and empower Women. ** 
 
 How is the response from Female respondents? 
 what is Job/Career Satisfaction rating by existing Female respondents?  
