@@ -12,7 +12,7 @@ https://insights.stackoverflow.com/survey
 
 CRISP-DM (Cross Industry Standard Process for Data Mining)
 
-# Business Understanding
+## Business Understanding
 
 Stack Overflow 2017 is golden source data and used as baseline to perform various analysis. Though data can be analyzed at various angles and prospects but here we focused on following questions
 
@@ -31,19 +31,19 @@ What is Job & Career Satisfaction with respect to Technology?
 How job assessment makes difference in Job/Career Satisfaction? What are key Job assessment paramenters to be considered for improvement?
 What parameters possibly can trigger high employee attrition?
 
-# Data Understanding
+## Data Understanding
 
 Stack Overflow 2017 is source dataset. The rows are the different respondants to the survey, and the columns are the answer to the various survey questionnaires. It contains data that comes as numerical, categorical and text. It also has missing values and outliers as well.
 
-# Data Preparation
+## Data Preparation
 
 For the data preparation phase, we have used learnings from Data Wrangling lessons. Source excel sheet is imported into python code to extract data, assessed and trasnformed into python data frame. We maintained master copy as it is and created multiple deep copy and prepared subset of data using fliters based on columns of interest. We have used imputing methods whereever it is appropriate to apply and performed analysis using python libraries of Numpy,Pandas,matplotlib.
 
-# Modeling
+## Modeling
 
 Modeling can be perfomed based on mathematical data but Stack Overflow has only 5-6 columns with numerical values so we considered 2 of such columns and incorporate them with other Categorical columns for analysis.
 
-# Evaluation
+## Evaluation
 
 Our business questions have subjective evalution from quantitative analysis.
 
@@ -67,7 +67,7 @@ Feedback is provided by just 8% of whole dataset so increased % of feedack will 
 - **Average (5 to 6)** : Those respondents are seriously looking for better opportunities and decision possibly based on Job role, Compensation, Remote working.
 - **Below Expectation (Lower than 5)** : Need more depth analysis since there could be many reasons includes individual skill set, existing technology, department, leadership, financial aspects.
 
-# Deployment
+## Deployment
 
 Python code is developed to perform analysis and make some conclusion to inline with business questions.
 Reference file is attached. 
