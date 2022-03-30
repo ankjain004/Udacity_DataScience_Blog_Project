@@ -62,8 +62,8 @@ Feedback is provided by just 8% of whole dataset so increased % of feedack will 
 **Job Assessment Factors to Satisfaction**
 
 Excellent (9 or 10) : Respondent are satisfied with role,company, professionl growth, work-life balance, policies, leadership, compensation.
-Meet Expectation (7 to 8) : Factors could be Prof. development, Company policy, work-life balance, Diversity or Compensation and such respondents are seeker for improvement. 
-Average ( 5 to 6) : Those respondents are seriously looking for better opportunities and decision possibly based on Job role, Compensation, Remote working.
+Meet Expectation (7 to 8) : Factors could be Prof. development, Company policy, work-life balance, Diversity or Compensation and such respondents are seeker for improvement.
+Average (5 to 6) : Those respondents are seriously looking for better opportunities and decision possibly based on Job role, Compensation, Remote working.
 Below Expectation (Lower than 5) : Need more depth analysis since there could be many reasons includes individual skill set, existing technology, department, leadership, financial aspects.
 
 # Deployment
