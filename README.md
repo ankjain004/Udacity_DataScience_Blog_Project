@@ -47,19 +47,19 @@ Modeling can be perfomed based on mathematical data but Stack Overflow has only 
 
 Our business questions have subjective evalution from quantitative analysis.
 
-**Diversity & Inclusion 
+**Diversity & Inclusion** 
 
 Key contributors to achieve decent satisfaction rating could be educational qualification and professional role. Parent's educational background somehow helped for broader prospect for respondants to purse good degrees which in-turn helped for right career direction and roles which turned out to good satisfaction rating.
 Small to Medium scale companies (Based of no. of employees) are picking good pace to acheieve this goal.
 
 Feedback is provided by just 8% of whole dataset so increased % of feedack will helps to get more accurate or divserfied result.
 
-**Technology Drives
+**Technology Drives**
 
-Languages: Java, JavaScript, PHP, SQL, C# and their combination is most popular languages but Python is in choice of learning since it is fast emerging progamming language for Coding and analysis.
-Database:MySQL, SQL Server,PostgreSQL and their combination is very popular DB platform but open source DB tech. like Mongo, Cassandra, PostgreSQL are attracting both employees and employers.
+**Languages**: Java, JavaScript, PHP, SQL, C# and their combination is most popular languages but Python is in choice of learning since it is fast emerging progamming language for Coding and analysis.
+**Database**:MySQL, SQL Server,PostgreSQL and their combination is very popular DB platform but open source DB tech. like Mongo, Cassandra, PostgreSQL are attracting both employees and employers.
 
-**Job Assessment Factors
+**Job Assessment Factors to Satisfaction**
 
 Excellent (9 or 10) : Respondent are satisfied with role,company, professionl growth, work-life balance, policies, leadership, compensation.
 Meet Expectation (7 to 8) : Factors could be Prof. development, Company policy, work-life balance, Diversity or Compensation and such respondents are seeker for improvement. 
