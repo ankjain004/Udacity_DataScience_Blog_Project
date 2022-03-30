@@ -13,6 +13,22 @@ https://insights.stackoverflow.com/survey
 CRISP-DM (Cross Industry Standard Process for Data Mining)
 
 # Business Understanding
+
+Stack Overflow 2017 is golden source data and used as baseline to perform various analysis. Though data can be analyzed at various angles and prospects but here we focused on following questions
+
+Diversity & Inclusion is an big initiative in many organizations which helps to improve gender ratio and empower Women.
+So How is the response from Female respondents? what is Job/Career Satisfaction rating by existing Female respondents?  What are preferrable Job roles ? How does education impacts professional life of Female respondents? Which scale of companies successfully implented D&I?
+
+Technology plays big role into Industry and the way it is evolving, biggest challenges is to cope with new technology to have professional growth. 
+
+Which Development Framework,databases, languages are being used by professionals and what is in their to-do list for learning to get better opportunity?
+What is Job & Career Satisfaction with respect to Technology?
+
+Stack Overflow has collected responses inline with Job Assessment which helps companies to understand & introduce or improve policies to handle employee attrition.
+How job assessment makes difference in Job/Career Satisfaction?
+What are key Job assessment paramenters to be considered for improvement?
+What parameters possibly can trigger high employee attrition?
+
 # Data Understanding
 # Data Preparation
 # Modeling
