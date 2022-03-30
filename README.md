@@ -40,6 +40,9 @@ Stack Overflow 2017 is source dataset. The rows are the different respondants to
 For the data preparation phase, we have used learnings from Data Wrangling lessons. Source excel sheet is imported into python code to extract data, assessed and trasnformed into python data frame. We maintained master copy as it is and created multiple deep copy and prepared subset of data using fliters based on columns of interest. We have used imputing methods whereever it is appropriate to apply and performed analysis using python libraries of Numpy,Pandas,matplotlib.
 
 # Modeling
+
+Modeling can be perfomed based on mathematical data but Stack Overflow has only 5-6 columns with numerical values so we considering 2 of such columns and rest of analysis is based on Categorical columns.
+
 # Evaluation
 # Deployment
 
