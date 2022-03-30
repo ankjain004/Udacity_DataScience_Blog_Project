@@ -61,7 +61,7 @@ Feedback is provided by just 8% of whole dataset so increased % of feedack will 
 - **Database**:MySQL, SQL Server,PostgreSQL and their combination is very popular DB platform but open source DB tech. like Mongo, Cassandra, PostgreSQL are attracting both employees and employers.
 - **Farmework**:.NET Core and Angular JS are most preffered Framework and React, Spark, Hadoop which is also gaining popularity.
 
-**Job Assessment Factors to Satisfaction**
+**Job Assessment Factors to Satisfaction Rating**
 
 - **Excellent (9 or 10)** : Respondent are satisfied with role,company, professionl growth, work-life balance, policies, leadership, compensation.
 - **Meet Expectation (7 to 8)** : Factors could be Prof. development, Company policy, work-life balance, Diversity or Compensation and such respondents are seeker for improvement.
