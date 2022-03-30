@@ -58,6 +58,7 @@ Feedback is provided by just 8% of whole dataset so increased % of feedack will 
 
 **Languages**: Java, JavaScript, PHP, SQL, C# and their combination is most popular languages but Python is in choice of learning since it is fast emerging progamming language for Coding and analysis.
 **Database**:MySQL, SQL Server,PostgreSQL and their combination is very popular DB platform but open source DB tech. like Mongo, Cassandra, PostgreSQL are attracting both employees and employers.
+**Farmework**:.NET Core and Angular JS are most preffered Framework and React, Spark, Hadoop which is also gaining popularity.
 
 **Job Assessment Factors to Satisfaction**
 
