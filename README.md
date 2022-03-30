@@ -36,6 +36,9 @@ What parameters possibly can trigger high employee attrition?
 Stack Overflow 2017 is source dataset. The rows are the different respondants to the survey, and the columns are the answer to the various survey questionnaires. It contains data that comes as numerical, categorical and text. It also has missing values and outliers as well.
 
 # Data Preparation
+
+For the data preparation phase, we have used learnings from Data Wrangling lessons. Source excel sheet is imported into python code to extract data, assessed and trasnformed into python data frame. We maintained master copy as it is and created multiple deep copy and prepared subset of data using fliters based on columns of interest. We have used imputing methods whereever it is appropriate to apply and performed analysis using python libraries of Numpy,Pandas,matplotlib.
+
 # Modeling
 # Evaluation
 # Deployment
