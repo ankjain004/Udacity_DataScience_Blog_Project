@@ -75,3 +75,5 @@ Python code is developed to perform analysis and make some conclusion to inline 
 Reference file is attached. 
 
 # Medium Blog Post
+
+https://medium.com/@ankjain004/you-can-see-what-you-want-to-see-just-set-your-angle-832187c0dd94
